@@ -8,7 +8,7 @@
 ![Optuna](https://img.shields.io/badge/Tuning-Optuna-2D6DB5)
 ![Accuracy](https://img.shields.io/badge/Test%20accuracy-79%25-1E8E5A)
 
-Upload a JPG or PNG of a vehicle and the app returns one of six classes: **Front / Rear × Normal / Crushed / Breakage**. The result appears as a colour-coded inspection card with a top-down car diagram that highlights the affected half of the vehicle.
+Upload a JPG or PNG of a vehicle and the app returns one of six classes: **Front / Rear / Normal / Crushed / Breakage**. The result appears as a colour-coded inspection card with a top-down car diagram that highlights the affected half of the vehicle.
 
 <p align="center">
   <img src="streamlit-app/assets/breakage.png" alt="App result for a rear breakage photo" width="95%">
@@ -197,4 +197,4 @@ Python · PyTorch · torchvision · ResNet50 · Optuna · scikit-learn · Stream
 
 ## Author
 
-Built by **Sarthak**.
+Built by **Sarthak Pannu**.
